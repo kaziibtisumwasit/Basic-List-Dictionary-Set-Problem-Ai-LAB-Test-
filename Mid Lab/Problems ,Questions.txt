@@ -1,0 +1,69 @@
+Problems:
+
+
+
+1.
+Reverse and concate two list.
+
+2.
+Remove duplicate items from the list.
+
+3.
+write a funcion to swap elements of two positions in a list.
+
+4.
+Write a function to find sum and average of a list.
+
+5.
+Write a Python function that takes two lists and returns True if they have at least one common member.
+
+6.
+Write a python program to check whether two lists are circularly identical.
+
+7.
+Write a Python program to find the second smallest and largest number in a list .
+
+8.
+Write a Python program to compute the difference between two lists.
+
+
+Sample data: ["red", "orange", "green", "blue", "white"], ["black", "yellow", "green", "blue"]
+Expected Output:
+Color1-Color2: ['white', 'orange', 'red']
+Color2-Color1: ['black', 'yellow']
+
+
+9.
+Write a Python program to find the item with maximum occurrences in a given list.
+
+
+10.
+Write a Python program to check if the elements of a given list are unique or not
+
+
+11.
+Write a Python script to check whether a given key already exists in a dictionary.
+
+
+12.
+Write a Python script to print a dictionary where the keys are numbers between 1 and 15 (both included) and the values are square of keys.
+
+
+13.
+Write a Python script to merge two Python dictionaries.
+
+
+14.
+Write a Python program to sum all the items in a dictionary.
+
+
+15.
+Write a Python program to get the maximum and minimum value in a dictionary.
+
+
+16.
+Write a Python program to combine two dictionary adding values for common keys. d1 = {'a': 100, 'b': 200, 'c':300} d2 = {'a': 300, 'b': 200, 'd':400} Sample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
+
+
+17.
+Convert two lists into a dictionary
